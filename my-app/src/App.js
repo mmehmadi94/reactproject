@@ -13,25 +13,24 @@ function App() {
                   <h3>Upload CV</h3>
            <hr/>
                   <h3>Preview the uploaded CV's</h3>
-                  
            <hr/>
 
            <h3>About us</h3>
 
            <div class="our-container">
             <div>
-              <p> Group leader </p>
-              <p> some information....</p>
+              <p> Khalda Alhrbi </p>
+              <p> group leader</p>
             </div>
 
             <div>
-              <p> Group member 1 </p>
-              <p> some information....</p>
+              <p> Manal Almehmadi </p>
+              <p> member in the group</p>
             </div>
 
             <div>
-              <p> Group member 2 </p>
-              <p> some information....</p>
+              <p> Arwa Ahmadi</p>
+              <p> member in the group</p>
            </div>
 
           </div>
