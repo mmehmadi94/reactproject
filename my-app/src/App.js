@@ -13,6 +13,7 @@ function App() {
                   <h3>Upload CV</h3>
            <hr/>
                   <h3>Preview the uploaded CV's</h3>
+                  
            <hr/>
 
            <h3>About us</h3>
